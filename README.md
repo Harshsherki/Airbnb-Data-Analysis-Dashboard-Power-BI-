@@ -11,6 +11,6 @@ The data for this project was sourced from [Kaggle: New York City Airbnb Open Da
 ## Key Features
 - **Interactive Visualizations**: Includes bar charts, line graphs, and maps to effectively display data on booking trends, pricing, and neighborhood statistics.
 - **Dynamic Data Exploration**: Slicers and filters allow users to explore data dynamically by neighborhood and room type.
-- **Actionable Insights**: Provided insights on booking patterns, pricing strategies, and customer satisfaction across NYC boroughs.
+
 
 
