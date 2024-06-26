@@ -13,7 +13,4 @@ The data for this project was sourced from [Kaggle: New York City Airbnb Open Da
 - **Dynamic Data Exploration**: Slicers and filters allow users to explore data dynamically by neighborhood and room type.
 - **Actionable Insights**: Provided insights on booking patterns, pricing strategies, and customer satisfaction across NYC boroughs.
 
-## Insights Provided
-- Analysis of booking patterns across different neighborhoods and room types.
-- Pricing strategy suggestions based on trends and patterns observed.
-- Customer satisfaction metrics and their correlation with neighborhood and room type.
+
